@@ -1,0 +1,22 @@
+Reading file: input.txt
+Sucessfully read 3020 numbers
+Reading file Complete, integers stored in array.
+
+Thread 1 (sum) :
+ 11798
+Thread 2 (sum) :
+ 10426
+Thread 3 (sum) :
+ 11757
+Thread 4 (sum) :
+ 11387
+Thread 5 (sum) :
+ 19166
+Thread 6 (sum) :
+ 19761
+
+total of (sum) is:
+ 84295
+Testing without threads, (sum): 
+84295 
+
